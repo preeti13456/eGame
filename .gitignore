@@ -1,0 +1,26 @@
+/vendor/
+node_modules/
+npm-debug.log
+yarn-error.log
+.tmp.drivedownload
+PayPal.log
+
+# Laravel 4 specific
+bootstrap/compiled.php
+app/storage/
+
+# Laravel 5 & Lumen specific
+public/storage
+public/hot
+storage/*.key
+.env
+Homestead.yaml
+Homestead.json
+/.vagrant
+.phpunit.result.cache
+app/Python/Python38-32
+*.csv
+*.csv
+app/Python/ratings.csv
+app/Python/articles.csv
+PayPal.log
